@@ -17,4 +17,4 @@ The types of courts and rinks included in this dataset are (INSERT TYPES).
 
 Sarah Reyer, EMAIL - pools
 https://data.wprdc.org/dataset/city-pools/resource/5cc254fe-2cbd-4912-9f44-2f95f0beea9a
-This dataset showcases pools in Pittsburgh. It has the name of the pool, the type of pool (Spray Park or pool), the water source of the pool, the capacity, a picture, the neighborhood it's in, the council district, ward, zoning information, and latitute/longitude.
+This dataset showcases pools in Pittsburgh. It has the name of the pool, the type of pool (spray park or pool), the water source of the pool, the capacity, a picture, the neighborhood it's in, the council district, ward, zoning information, and latitute/longitude.
