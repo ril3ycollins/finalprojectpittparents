@@ -4,7 +4,7 @@ Final Project for Big Ideas, Canvas Group 48, Wednesday 1pm Lab
 
 Team Pittsburgh Parents
 
-This repository is an analysis where we find the best neighborhood in Pittsburgh to raise children according to the which neighborhood has the highest number of playgrounds, courts, and pools.
+This repository is an analysis where we find the best neighborhood in Pittsburgh to raise children according to which neighborhood has the highest number of playgrounds, courts, and pools.
 
 Riley Collins, RIC93@pitt.edu - playgrounds 
 https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367
